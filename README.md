@@ -1,2 +1,1 @@
-# skroutz-ui-automated-testing
-Automated E-commerce UI Testing script using Python and Selenium WebDriver to validate price filters.
+The objective of this project was to design and implement an automated End-to-End UI test to verify the functional correctness of the price filtering mechanism on Skroutz.gr, one of the largest e-commerce platforms in Greece. The test validates that when a user applies a specific price range (e.g., 200€ - 300€), all displayed organic products strictly fall within these boundaries.
